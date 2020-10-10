@@ -1,0 +1,2 @@
+class RandiesController < ApplicationController
+end
